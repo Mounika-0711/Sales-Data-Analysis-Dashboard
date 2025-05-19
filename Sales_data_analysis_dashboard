@@ -1,0 +1,15 @@
+Sales-Data-Analysis-Dashboard Project/
+│
+├── 📁 data/
+│   ├── sales_data_sample_T1.csv          # Raw data from Kaggle
+│   ├── cleaned_salesdata_T2.csv          # Cleaned data using Excel
+│   └── analysis_salesdata_T3.csv         # SQL-analyzed data
+│
+├── 📁 dashboard/
+│   └── Sales_Data_Analysis_Dashboard_T4.pbix  # Final Power BI dashboard
+│
+├── 📁 sql_queries/
+│   └── sales_analysis_queries.sql        # SQL queries used for analysis
+│
+├── 📄 README.md                          # Project portfolio and overview
+
